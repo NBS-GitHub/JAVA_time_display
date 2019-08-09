@@ -1,6 +1,8 @@
 # JAVA_time_display
----
-This application allows to create instances of Timer class. The instances can be created with 0-3 arguments (hour, minute, second).
+
+
+This application creates instances of Timer class. The instances can be created with 0-3 arguments (hour, minute, second).
+
 ---
 There are following public methods available in the instances:
 - getHour();
